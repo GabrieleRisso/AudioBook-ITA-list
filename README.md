@@ -1,8 +1,12 @@
-# AudioBook-ITA-list
-Lista di audiolibri in italiano
+Ecco una ricca lista di audiolibri LIBERI in lingua italiana.
+Sono elencati in ordine sparso, SitiWeb e canali YouTube.
+
+Siete liberi di aggiungere risorse attraverso un PULL request o aprendo un nuovo Issue.
+TO DO: creare un Indice degli audiolibri trovabili qui sotto.
 
 
-LIBRILIBER
+
+LIBERILIBER
 opere: 82 
 https://www.liberliber.it/online/opere/audiolibri/elenco-per-opere/
 
@@ -14,7 +18,7 @@ CLASSICIPODCAST
 opere: 77
 https://www.classicipodcast.it/audiolibri
 
-PROGETTO BABELE
+PROGETTO-BABELE
 opere: 110
 https://www.progettobabele.it/AUDIOFILES/audiolibri.php
 
@@ -43,7 +47,7 @@ opere: 330
 https://web.archive.org/web/20100225152809/http://www.ilibridiomero.com/audiobooks/base/conversation/audiobooks/cataloghe.jsp
 
 ITALYGUIDES
-guide: 
+guide:100 
 https://ioleggodigitale.dmcultura.it/opac/query/TDOC:audiolibro%20fonte:italyguide?context=catalogo&sort=Anno
 
 LIBROPARLATO
@@ -100,7 +104,7 @@ ILCLUBDEILETTORI (gratis con iscrizione al blog)
 opere:9
 https://www.audiolettori.it/shop/14-audiolibri-gratis-per-gli-iscritti
 
-RCITARLEGGENDO
+RECITARLEGGENDO
 opere:15
 https://web.archive.org/web/20140708044750/http://www.recitarleggendo.com/archivio.htm
 
