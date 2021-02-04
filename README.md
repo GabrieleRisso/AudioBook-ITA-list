@@ -2,8 +2,7 @@ Collezione di audiolibri LIBERI in lingua italiana.
 
 DI LIBERO ACCESSO:
 Pretendo che lo siano, invocando alla devozione con cui coloro che ne hanno resa grande l'opera, attraverso una delle sue moderne manifestazioi, scritte come recitate e lette,possano ora essere state da loro Liberate e rese di pubblico Prestigio Culturale e Accesso. Mi riferisco ai circoli di lettori che ancora non conosciamo, alla voce che nasce dai forum e alle voci che popolano con il suono la geometria dei simboli: ieri inscritti oggi riprodotti ma prima ancora cantati e dimenticati. 
-E' attraverso queste narrazioni intime, che molti di noi crescono e colmano gli spazi che ancora ci sono, sul lavoro cosi' come prima di coricarsi. 
-Tutto questo per cortesia di chi ne ha l'abilita'.
+E' attraverso queste narrazioni intime, che molti di noi crescono e colmano gli spazi che ancora ci sono, sul lavoro cosi' come nel silenzio prima di coricarsi. 
 Un grande grazie va agli attori e maestri di lettura, ma ancora ad amici e comunita' che rendono questo possibile per tutti coloro che tra questa vastita' vogliano trovare la grandezza nelle parole giuste. 
 Sono esclusi contenuti di manifattura clandestina che per reali e economiche ragioni infrangono il diritto d'autore incapacitandone l'operato e la sopravvivenza dello stesso.
 
@@ -17,7 +16,9 @@ Siete liberi di aggiungere risorse attraverso un PULL request o aprendo un nuovo
 
 
 TO DO: creare un Indice degli audiolibri trovabili qui sotto scartando quelli duplicati.
-TO DO: credit list delle voci. 
+TO DO: credit list delle voci
+
+
 
 
 
